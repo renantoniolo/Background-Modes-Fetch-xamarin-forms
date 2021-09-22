@@ -7,7 +7,7 @@
   `UIApplication.SharedApplication.SetMinimumBackgroundFetchInterval(10);`
   - [x] Na <b>AppDelegate.cs</b>, inclua o método `PerformFetch`.
   
- ## Sample App Background Fetch
+ ### Sample App Background Fetch
  - Exemplo gera de tempos em tempos, um número randomico em segundo plano, sem que o aplicativo esteja aberto.
  
  ## Print Screen :foggy:
