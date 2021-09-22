@@ -18,5 +18,3 @@
 
 ### Documentação de apoio
 - Background Fetch (https://github.com/Redth/iOS.BackgroundFetch.Sample)
-
-
